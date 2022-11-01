@@ -1,0 +1,4 @@
+#python 3.9.2
+influxdb-client==1.34.0
+pySerial==3.5
+pytest==7.2
